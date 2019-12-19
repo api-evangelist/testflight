@@ -1,0 +1,44 @@
+{
+    "name": "TestFlight",
+    "description": "TestFlight Beta Testing",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1178-testflight.jpg",
+    "tags": [
+        "applications",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/testflight\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [],
+    "x-common": [
+        {
+            "type": "Website",
+            "url": "https:\/\/testflightapp.com\/api\/doc\/"
+        },
+        {
+            "type": "Blog",
+            "url": "http:\/\/blog.testflightapp.com\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/blog.testflightapp.com\/rss"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/testflight"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/testflight"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/testflight"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/#!\/testflightapp"
+        }
+    ]
+}
